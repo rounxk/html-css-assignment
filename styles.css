@@ -1,0 +1,176 @@
+body {
+    background: linear-gradient(to right bottom, #389999, #5f9d82, #849d72, #a69c6f, #c0997b);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: block;
+    background-repeat: no-repeat;
+
+}
+
+.main {
+    height: 1.5rem;
+    margin-left: 4%;
+    margin-top: 20px;
+    position: absolute;
+}
+
+#main {
+    height: 1.5rem;
+    margin-left: 6%;
+    margin-top: 16px;
+    position: absolute;
+    color: #F2F2F2;
+    clear: both;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.search {
+    height: 1.5rem;
+    margin-left: 94%;
+    margin-top: 18px;
+}
+
+.dropdown {
+    position: absolute;
+    height: 1.5rem;
+    margin-left: 0.5rem;
+    margin-right: 50px;
+    margin-top: 20px;
+}
+
+h1 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 4rem;
+    color: #F2F2F2;
+    padding: 3rem 3rem 0 3rem;
+}
+
+h3 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1rem;
+    font-weight: 200;
+    color: #F2F2F2;
+    padding: 0rem 3rem;
+    word-spacing: 2px;
+    margin-bottom: 5rem;
+}
+
+.myButton {
+    background-color: #e8beac;
+    border-radius: 28px;
+    display: inline-block;
+    cursor: pointer;
+    color: #050505;
+    font-family: Arial;
+    font-size: 11px;
+    padding: 25px 35px;
+    text-decoration: none;
+    text-shadow: 0px 1px 0px #000000;
+    margin-left: 3rem;
+    display: block;
+    width: 100px;
+    text-align: center;
+}
+
+.sitting-man {
+    position: absolute;
+    height: 20rem;
+    margin-top: 0;
+    margin-left: 30%;
+    margin-top: 4%;
+
+}
+
+.flex-box {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.info {
+    background-color: white;
+    margin: 0 auto;
+    margin-top: 0;
+    margin-bottom: 100px;
+    text-align: center;
+    border-radius: 50px;
+    height: 20rem;
+    width: 80%;
+    clear: both;
+}
+
+#payoneer {
+    height: 180px;
+    float: right;
+    margin-right: 120px;
+    padding-left: 0px;
+
+}
+
+#paypal {
+    height: 180px;
+    float: right;
+    margin-right: 120px;
+
+}
+
+.logos {
+    float: center;
+}
+
+#wise {
+    height: 35px;
+    float: left;
+    margin-left: 200px;
+    padding-left: 0px;
+    padding-top: 70px;
+
+
+}
+
+#woocommerce {
+    height: 50px;
+    float: left;
+    margin-left: 200px;
+    padding-left: 0px;
+    padding-top: 65px;
+}
+
+#font {
+    font-family: 'Open Sans',
+        sans-serif;
+    font-size: 50px;
+    padding-top: 20px;
+    padding-bottom: 0;
+}
+
+#ellipse {
+    height: 70px;
+    padding-left: 50px;
+    padding-top: 0px;
+    margin-top: 0px;
+    padding-bottom: 0px;
+    position: absolute;
+
+}
+
+#ideal {
+    font-family: 'Open Sans',
+        sans-serif;
+    font-size: 15px;
+    text-align: center;
+    line-height: 25px;
+    color: #989393fa;
+    margin-bottom: 2em;
+}
+
+#line {
+    height: 30px;
+    margin-left: -50px;
+    position: relative;
+}
+
+#line2 {
+    height: 30px;
+    margin-right: -50px;
+    position: relative;
+}
